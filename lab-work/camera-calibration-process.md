@@ -11,12 +11,12 @@
 
 For the calibration example, we took around 1000 images in total. Some images examples:
 
-<img src="https://github.com/cvar-vision-dl/wiki/assets/3659632/c01f7869-1a30-4ccf-876c-eedf973c9962" width="500">
-<img src="https://github.com/cvar-vision-dl/wiki/assets/3659632/172ebac9-9f57-4082-a44c-675f09341cc8" width="500">
-<img src="https://github.com/cvar-vision-dl/wiki/assets/3659632/3b1a5d49-ccec-4474-aca5-b334c8fb5afd" width="500">
-<img src="https://github.com/cvar-vision-dl/wiki/assets/3659632/172ebac9-9f57-4082-a44c-675f09341cc8" width="500">
-<img src="https://github.com/cvar-vision-dl/wiki/assets/3659632/2240c7f6-b444-456c-a20e-2e3a55217b3f" width="500">
-<img src="https://github.com/cvar-vision-dl/wiki/assets/3659632/98d21b45-0075-4d8a-b408-7243725206c2" width="500">
+<img src="../assets/326736681-c01f7869-1a30-4ccf-876c-eedf973c9962.png" width="500">
+<img src="../assets/326738374-172ebac9-9f57-4082-a44c-675f09341cc8.png" width="500">
+<img src="../assets/326739727-3b1a5d49-ccec-4474-aca5-b334c8fb5afd.png" width="500">
+<img src="../assets/326740150-2240c7f6-b444-456c-a20e-2e3a55217b3f.png" width="500">
+<img src="./assets/326736681-c01f7869-1a30-4ccf-876c-eedf973c9962.png" width="500">
+<img src="../assets/326740463-98d21b45-0075-4d8a-b408-7243725206c2.png" width="500">
 
 ## Use OpenCV to calibration camera
 
