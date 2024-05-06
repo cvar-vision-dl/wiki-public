@@ -7,6 +7,7 @@
 - The panel should be tilted in every direction, to the front (up, down), to the side (left, right) and in diagonal.
 - For every distance and tilted direction, the panel should be moved around the whole image plane.
 - If an IR camera is being calibrated, the panel should be "warm" enough by the sun for the Charucos to be seen.
+- [Here](https://github.com/cvar-vision-dl/wiki-public/blob/main/assets/chessboard_low_res.tiff), the calibration pattern image to be printed on a hard and relatively thick surface (it cannot bend for the sake of a proper calibration)
 
 
 For the calibration example, we took around 1000 images in total. Some images examples:
