@@ -12,7 +12,7 @@ If you prefer to use a virtual env use
 
 ```
 $ pip3 install opencv-python 
-$ pip3 install matplot lib 
+$ pip3 install matplotlib 
 ```
 
 ## Usage
